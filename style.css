@@ -1,7 +1,7 @@
 /*
 * multi-line comment
 */
-p{ line-height: 1.5em; style="text-align:justify"; }
+p{ line-height: 1.5em; text-align:justify; }
 h1, h2, h3, h4{
     color: orange;
 	font-weight: normal;
