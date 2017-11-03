@@ -25,13 +25,13 @@ body{
 /* you can put your code all in one line like above */
 #page{ margin: 20px; }
 
-/* or on different lines like below */
+/* or on different lines like below 
 #logo{
 	width: 35%;
 	margin-top: 5px;
 	font-family: georgia;
 	display: inline-block;
-}
+}*/
 /* but try and be as concise as possible */
 #nav{
 	width: 60%;
